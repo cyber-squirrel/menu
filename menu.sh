@@ -10,7 +10,7 @@
 
 show_menu(){
     echo -e "******************************************************"
-    echo -e "CYBERGREEN SCANNING PLATFORM"
+    echo -e "BASIC BASH CLI TOOL"
     echo -e "version: 1.0.1"
     echo -e "updated: 2018-02-02 "
     echo -e "******************************************************"
