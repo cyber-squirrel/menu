@@ -35,7 +35,8 @@ do
         exit;
     else
         case $opt in
-            1) option_picked "Option 1";
+            1) clear;
+                option_picked "Option 1";
                 echo -e "******************************************************"
                 echo "Please select an option... "
                 PS3="Enter your selection (select a number or press enter): "
