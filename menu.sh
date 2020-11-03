@@ -195,7 +195,7 @@ do
 
             x)exit;
             ;;
-            \n)exit;
+            n)exit;
             ;;
             *)
                 option_picked "Please pick an option from the menu:";
